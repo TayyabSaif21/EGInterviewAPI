@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Products CRUD</title>
+    <link rel="stylesheet" href="css/site.css" />
+</head>
+<body>
+    <h1>EG Interview - Products - CRUD API Functions</h1>
+
+    <h3>POST</h3>
+    <h4>Creates a new product</h4>
+    <form action="javascript:void(0);" method="POST" onsubmit="addItem()">
+        <input type="text" id="add-id" placeholder="Product ID">
+        <input type="text" id="add-name" placeholder="Product Name">
+        <input type="text" id="add-description" placeholder="Product Description">
+        <input type="text" id="add-price" placeholder="Product Price">
+        <button type="submit">Add Product</button>
+    </form>
+
+    <div id="editForm">
+        <h3>Edit</h3>
+        <form action="javascript:void(0);" onsubmit="updateItem()">
+            <input type="hidden" id="eedit-id">
+            <input type="checkbox" id="edit-isComplete">
+            <input type="text" id="edit-Nname">
+            <input type="submit" value="Save">
+            <a onclick="closeInput()" aria-label="Close">&#10006;</a>
+        </form>
+    </div>
+
+    <p id="counter"></p>
+
+    <h3>GET</h3>
+    <h4>Gets all Products and displays them in the table</h4>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Product Name</th>
+            <th>Description</th>
+            <th>Price</th>
+        </tr>
+        <tbody id="products"></tbody>
+    </table>
+
+    <h3>GET {id}</h3>
+    <h4>Gets a single product using the product ID</h4>
+    <form action="javascript:void(0);" method="POST" onsubmit="getItem()">
+        <input type="text" id="get-id" placeholder="Product ID" />
+        <button type="submit">Find Product</button>
+    </form>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Product Name</th>
+            <th>Description</th>
+            <th>Price</th>
+        </tr>
+        <tbody id="product"></tbody>
+    </table>
+
+    <h3>PUT {id}</h3>
+    <h4>Updates a product using the product ID</h4>
+    <form action="javascript:void(0);" method="POST" onsubmit="updateItem()">
+        <input type="text" id="edit-id" placeholder="Product ID">
+        <input type="text" id="edit-name" placeholder="Product Name">
+        <input type="text" id="edit-description" placeholder="Product Description">
+        <input type="text" id="edit-price" placeholder="Product Price">
+        <button type="submit">Confirm</button>
+    </form>
+
+    <script src="js/site.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+        getItems();
+    </script>
+
+    <h3>DELETE</h3>
+    <h4>Removes a product</h4>
+    <form action="javascript:void(0);" method="POST" onsubmit="deleteItem(event)">
+        <input type="text" id="delete-id" placeholder="Product ID">
+        <button type="submit">Delete</button>
+    </form>
+
+</body>
+</html>

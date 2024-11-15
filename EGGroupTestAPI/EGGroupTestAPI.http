@@ -1,0 +1,6 @@
+@EGGroupTestAPI_HostAddress = http://localhost:5108
+
+GET {{EGGroupTestAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

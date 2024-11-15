@@ -1,0 +1,51 @@
+﻿input {
+    font-style:italic;
+    font-size:large;
+    background-color:#f8f8f8;
+    color:black;
+}
+
+input[type='submit'], button, [aria-label] {
+    cursor: pointer;
+}
+
+#editForm {
+    display: none;
+}
+
+table {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #f8f8f8;
+    padding: 10px;
+}
+
+td {
+    border: 1px solid;
+    padding: 5px;
+}
+
+body {
+    background-color: lightgreen;
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
+
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    font-style: italic;
+}
+
+h4 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
