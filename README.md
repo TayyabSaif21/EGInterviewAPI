@@ -8,7 +8,8 @@ This project is a simple implementation of a Product API built with ASP.NET Core
 It allows users to list (GET), add (POST), and delete and edit (PUT) products, i.e. all the CRUD functions needed for any API project.
 The API demonstrates clean architecture principles, and the front end showcases dynamic UI rendering with basic styling.
 
-!!! Note : I have included a demonstration video as well to showcase my work. !!!
+### !!! Note : I have included a demonstration video as well to showcase my work.
+#
 Firstly, to show it works, and second, in the case where you are unable to run the project.
 There is a .zip folder in the root of this repo called 'Video Demonstration.zip' . There is an mp4 file in it which is the video demo of this API application's frontend.
 
@@ -29,7 +30,7 @@ There is a .zip folder in the root of this repo called 'Video Demonstration.zip'
   
 ---
 
-### Setup Instructions
+# Setup Instructions
 1. Clone the repository.
 2. Start the API.
 3. Run the https solution on:
