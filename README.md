@@ -7,6 +7,8 @@ EG Interview API  with Web Frontend
 This project is a simple implementation of a Product API built with ASP.NET Core and a web front end using HTML, CSS, and JavaScript. 
 It allows users to list (GET), add (POST), and delete and edit (PUT) products, i.e. all the CRUD functions needed for any API project.
 The API demonstrates clean architecture principles, and the front end showcases dynamic UI rendering with basic styling.
+ 
+I have set the site background to the EG Group's green colour, hope you like it 😃
 
 ### !!! Note : I have included a demonstration video as well to showcase my work.
 #
