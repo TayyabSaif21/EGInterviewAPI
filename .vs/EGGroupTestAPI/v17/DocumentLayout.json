@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\tayya\\Source\\Repos\\EG Interview\\EGInterviewAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DA9A9D-3DF8-4449-974B-A42F93CED09F}|EGGroupTestAPI\\EGGroupTestAPI.csproj|c:\\users\\tayya\\source\\repos\\eg interview\\eginterviewapi\\eggrouptestapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6DA9A9D-3DF8-4449-974B-A42F93CED09F}|EGGroupTestAPI\\EGGroupTestAPI.csproj|solutionrelative:eggrouptestapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tayya\\Source\\Repos\\EG Interview\\EGInterviewAPI\\EGGroupTestAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EGGroupTestAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tayya\\Source\\Repos\\EG Interview\\EGInterviewAPI\\EGGroupTestAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EGGroupTestAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T00:01:16.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
