@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xM95e0wmagL0iUGXytQLkdsmoPj3MDw3E9FW0rp2zto=",
+  "Hash": "NwllBoV4SXd25G69/f1WQivFRRbfgqen1uT0M4j1t1s=",
   "Source": "EGGroupTestAPI",
   "BasePath": "_content/EGGroupTestAPI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "EGGroupTestAPI\\wwwroot",
       "Source": "EGGroupTestAPI",
-      "ContentRoot": "C:\\Users\\tayya\\Source\\Repos\\EGGroupTestAPI\\EGGroupTestAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tayya\\Source\\Repos\\EG Interview\\EGInterviewAPI\\EGGroupTestAPI\\wwwroot\\",
       "BasePath": "_content/EGGroupTestAPI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\tayya\\Source\\Repos\\EGGroupTestAPI\\EGGroupTestAPI\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\tayya\\Source\\Repos\\EG Interview\\EGInterviewAPI\\EGGroupTestAPI\\wwwroot\\css\\site.css",
       "SourceId": "EGGroupTestAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tayya\\Source\\Repos\\EGGroupTestAPI\\EGGroupTestAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tayya\\Source\\Repos\\EG Interview\\EGInterviewAPI\\EGGroupTestAPI\\wwwroot\\",
       "BasePath": "_content/EGGroupTestAPI",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\tayya\\Source\\Repos\\EGGroupTestAPI\\EGGroupTestAPI\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\tayya\\Source\\Repos\\EG Interview\\EGInterviewAPI\\EGGroupTestAPI\\wwwroot\\index.html",
       "SourceId": "EGGroupTestAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tayya\\Source\\Repos\\EGGroupTestAPI\\EGGroupTestAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tayya\\Source\\Repos\\EG Interview\\EGInterviewAPI\\EGGroupTestAPI\\wwwroot\\",
       "BasePath": "_content/EGGroupTestAPI",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\tayya\\Source\\Repos\\EGGroupTestAPI\\EGGroupTestAPI\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\tayya\\Source\\Repos\\EG Interview\\EGInterviewAPI\\EGGroupTestAPI\\wwwroot\\js\\site.js",
       "SourceId": "EGGroupTestAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tayya\\Source\\Repos\\EGGroupTestAPI\\EGGroupTestAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tayya\\Source\\Repos\\EG Interview\\EGInterviewAPI\\EGGroupTestAPI\\wwwroot\\",
       "BasePath": "_content/EGGroupTestAPI",
       "RelativePath": "js/site.js",
       "AssetKind": "All",

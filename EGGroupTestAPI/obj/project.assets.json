@@ -6664,11 +6664,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tayya\\Source\\Repos\\EGGroupTestAPI\\EGGroupTestAPI\\EGGroupTestAPI.csproj",
+      "projectUniqueName": "C:\\Users\\tayya\\Source\\Repos\\EG Interview\\EGInterviewAPI\\EGGroupTestAPI\\EGGroupTestAPI.csproj",
       "projectName": "EGGroupTestAPI",
-      "projectPath": "C:\\Users\\tayya\\Source\\Repos\\EGGroupTestAPI\\EGGroupTestAPI\\EGGroupTestAPI.csproj",
+      "projectPath": "C:\\Users\\tayya\\Source\\Repos\\EG Interview\\EGInterviewAPI\\EGGroupTestAPI\\EGGroupTestAPI.csproj",
       "packagesPath": "C:\\Users\\tayya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tayya\\Source\\Repos\\EGGroupTestAPI\\EGGroupTestAPI\\obj\\",
+      "outputPath": "C:\\Users\\tayya\\Source\\Repos\\EG Interview\\EGInterviewAPI\\EGGroupTestAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tayya\\AppData\\Roaming\\NuGet\\NuGet.Config",

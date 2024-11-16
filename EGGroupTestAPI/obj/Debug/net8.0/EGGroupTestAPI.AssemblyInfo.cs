@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EGGroupTestAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd23ce67e8e70dda193fe48bec75f98b8fa8493c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EGGroupTestAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EGGroupTestAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
