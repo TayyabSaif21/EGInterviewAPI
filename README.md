@@ -10,6 +10,7 @@ The API demonstrates clean architecture principles, and the front end showcases 
 
 !!! Note : I have included a demonstration video as well to showcase my work. !!!
 Firstly, to show it works, and second, in the case where you are unable to run the project.
+There is a .zip folder in the root of this repo called 'Video Demonstration.zip' . There is an mp4 file in it which is the video demo of this API application's frontend.
 
 ---
 
