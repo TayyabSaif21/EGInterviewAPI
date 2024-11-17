@@ -36,12 +36,13 @@ There is a .zip folder in the root of this repo called 'Video Demonstration.zip'
 1. Clone the repository.
 2. Open the .sln file in Visual Studio 2022.
 3. Starting the API and Web Frontend:
-   - Run the https solution on: https://localhost:7010
+   - Click start in VS ensuring you are starting it as a https.
+     - The web page to test the functions should open automatically when the API is started, but if not, open the https solution at: **https://localhost:7010**
 5. Can also be tested using Postman alternatively if you do not want to call the endpoints using the front end using the same URL and then the endpoints listed above.
 
 
 ---
-I believe I am the best candidate for this role due to my previous experience in software and also my experience in distribution businesses. I belive I cam bring great benefit and expertise to the company in the software and business department.
+I believe I am the best candidate for this role due to my previous experience in software and also my experience in distribution businesses. I belive I will bring great benefit and expertise to the company in the software and business department.
 
 **Thanks,  
 Tayyab**
