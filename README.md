@@ -1,8 +1,5 @@
-# EGInterviewAPI
-EG Interview API  with Web Frontend
+EG Interview - Products API with Web Frontend
 ======================================
-
-# Product API with Web Frontend
 
 This project is a simple implementation of a Product API built with ASP.NET Core and a web front end using HTML, CSS, and JavaScript. 
 It allows users to list (GET), add (POST), and delete and edit (PUT) products, i.e. all the CRUD functions needed for any API project.
@@ -10,13 +7,14 @@ The API demonstrates clean architecture principles, and the front end showcases 
  
 I have set the site background to the EG Group's green colour, hope you like it 😃
 
-### !!! Note : I have included a demonstration video as well to showcase my work.
-#
-Firstly, to show it works, and second, in the case where you are unable to run the project.
-There is a .zip folder in the root of this repo called 'Video Demonstration.zip' . There is an mp4 file in it which is the video demo of this API application's frontend.
-
 ---
 
+### !!! Note : I have included a demonstration video as well to showcase my work.  
+Firstly, to show it works, and second, in the case where you are unable to run the project.  
+There is a .zip folder in the root of this repo called 'Video Demonstration.zip'. There is an mp4 file in it which is the video demo of this API application's frontend.
+
+---
+---
 ## Features
 - **API Endpoints**:
   - `GET /api/productitems`: Retrieve a list of all products/drinks.
