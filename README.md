@@ -1,4 +1,4 @@
-EG Interview - Products API with Web Frontend
+Interview - Products API with Web Frontend
 ======================================
 
 This project is a simple implementation of a Product API built with ASP.NET Core and a web front end using HTML, CSS, and JavaScript. 
